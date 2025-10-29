@@ -61,20 +61,7 @@ Each cell line includes:
 
 ---
 
-## 📊 Why Better Than Morpheus/PhysicalCell?
-
-| Feature | NextGen CellDynamics | Morpheus | PhysicalCell |
-|---------|---------------------|----------|--------------|
-| **Detailed Cell Cycle** | ✅ Full G1/S/G2/M with checkpoints | ⚠️ Simplified | ⚠️ Basic |
-| **PK/PD Modeling** | ✅ Multi-compartment with resistance | ❌ None | ⚠️ Limited |
-| **Spatial Gradients** | ✅ Dynamic diffusion | ✅ Yes | ⚠️ Static |
-| **Cell-Cell Signaling** | ✅ Contact inhibition + paracrine | ⚠️ Limited | ❌ None |
-| **Drug Combinations** | ✅ Multiple simultaneous drugs | ❌ None | ❌ None |
-| **ML Prediction** | ✅ Dose optimization + forecasting | ❌ None | ❌ None |
-| **Gene Expression** | ✅ Oncogene/TSG tracking | ❌ None | ❌ None |
-| **Web Interface** | ✅ Modern React UI | ⚠️ Desktop only | ⚠️ Basic |
-| **Real-Time Charts** | ✅ Interactive Recharts | ⚠️ Static | ⚠️ Basic |
-| **Metabolic Modeling** | ✅ ATP/glucose/O₂ dynamics | ⚠️ Simplified | ❌ None |
+##
 
 ---
 
